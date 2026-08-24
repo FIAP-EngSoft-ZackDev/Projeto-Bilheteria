@@ -3,7 +3,9 @@ import Ingresso from './components/Ingresso.jsx'
 
 const App = () => {
   return (
-    <>Ingresso</>
+    <>
+      <Ingresso/>
+    </>
   )
 }
 
