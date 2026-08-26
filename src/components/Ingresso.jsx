@@ -84,7 +84,7 @@ const Ingresso = () => {
 
                     {status && (
                         <div className='alerta=status'>
-                            <strong>Alerta:</strong>{status}
+                            <strong>Alerta: </strong>{status}
                         </div>
                     )}
 
