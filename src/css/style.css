@@ -1,0 +1,17 @@
+@import url('https://googleapis.com');
+
+:root {
+  /* Paleta de Cores Cinema Roxa */
+  --cinema-bg: #0d0814;       /* Fundo ultra escuro */
+  --cinema-surface: #1a1226;  /* Fundo dos cards e container */
+  --cinema-text: #e2dbec;     /* Texto principal claro */
+  --cinema-text-muted: #9a8eb9; /* Texto secundário */
+  --cinema-primary: #9d4edd;  /* Roxo Neon */
+  --cinema-accent: #ff007f;   /* Rosa Choque / Hover */
+  --cinema-border: #2d1f42;   /* Bordas sutis */
+  
+  /* Tipografia */
+  --font-titulo: 'Syne', sans-serif;
+  --font-texto: 'Plus Jakarta Sans', sans-serif;
+}
+
