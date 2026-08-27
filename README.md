@@ -1,4 +1,4 @@
-# 🎬 Bilheteria de Cinema - React Component
+# 🎬 Bilheteria de Cinema 
 
 Este é um projeto de simulação de uma bilheteria de cinema digital. O sistema permite listar filmes disponíveis, controlar a quantidade de ingressos selecionados em tempo real, calcular dinamicamente o subtotal, taxas e o valor total, além de simular a confirmação e envio dos ingressos por e-mail.
 
